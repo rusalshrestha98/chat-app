@@ -1,4 +1,4 @@
-This project is a chat application that allows users to communicate with each in real time through the Socket.io NPM library. 
+This is a chat application that allows users to communicate with each in real time.
 
 It uses the following technologies: Node.js, Express, Websockets, HTML, and CSS.
 
